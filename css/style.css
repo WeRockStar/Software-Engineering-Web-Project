@@ -1,0 +1,101 @@
+.navbar-text{
+    color: #fff !important;
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-nav{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.intro-content {
+    background-image: url('../images/badminton01.png');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    margin-top: -20px;
+    min-height: 700px;
+}
+.margin-top-nav{
+    margin-top: 10px;
+}
+footer {
+    background-color: #333;
+    padding: 20px;
+}
+.fb , .yt , .tw , .gplus{
+    color: #fff;
+}
+.fb:hover{
+    color: #22b1e3;
+}
+.yt:hover{
+    color: #ff3333;
+}
+.tw:hover{
+    color: #3399ff;
+}
+.gplus:hover{
+    color: #ff3333;
+}
+
+.menu-nav {
+    color: #fff !important;
+    font-weight: bold !important;
+}
+.menu-bold{
+    font-weight: bold !important;
+}
+.menu-nav:hover{
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    color: #000 !important;
+
+}
+.navbar-brand{
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+.text-sign{
+    font-family: 'Montserrat';
+    font-size: 1.2em;
+}
+.text-sign:hover{
+    color: #ff3333;
+}
+.payment-visa{
+    width: 70px;
+    height: 35px;
+    border: 2px solid #ff9933;
+    border-radius: 8px;
+    //padding: 5px;
+    background-color: #ff9933;
+    -moz-border-radius: 8px;
+    -web-border-radius: 8px;
+    -o-border-radius: 8px;
+    -ms-border-radius: 8px;
+}
+.payment-paypal{
+    width: 70px;
+    height: 35px;
+    border: 2px solid #9999ff;
+    border-radius: 8px;
+    //padding: 5px;
+    background-color: #9999ff;
+    -moz-border-radius: 8px;
+    -web-border-radius: 8px;
+    -o-border-radius: 8px;
+    -ms-border-radius: 8px;
+}
+.row-tournament{
+    font-family: 'Montserrat';
+    font-size: 1em;
+    text-align: center;
+}
